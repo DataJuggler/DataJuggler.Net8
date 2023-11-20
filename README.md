@@ -1,4 +1,5 @@
 # News
+11.20.2023: DataJuggler.UltimateHelper was updated.
 
 11.14.2023: DataJuggler.NET8 is has been released!
 
