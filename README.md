@@ -1,4 +1,7 @@
 # News
+
+12.26.2023: TargetFrameworkEnum was updated to include .NET8
+
 11.20.2023: DataJuggler.UltimateHelper was updated.
 
 11.14.2023: DataJuggler.NET8 is has been released!
