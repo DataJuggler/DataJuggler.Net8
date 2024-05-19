@@ -1,5 +1,10 @@
 # News
 
+5.19.2024: A new video was created for DataTier .Net, which is powered by this project
+
+First Ever Opensource Saturday - Sunday Edition
+https://youtu.be/uxa1xR6xpzk
+
 12.26.2023: TargetFrameworkEnum was updated to include .NET8
 
 11.20.2023: DataJuggler.UltimateHelper was updated.
