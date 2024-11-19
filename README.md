@@ -1,5 +1,7 @@
 # News
 
+9.13.2024: NuGet packages DataJuggler.UltimateHelper and Microsoft.Data.SqlClient were updated.
+
 5.19.2024: A new video was created for DataTier .Net, which is powered by this project
 
 First Ever Opensource Saturday - Sunday Edition
